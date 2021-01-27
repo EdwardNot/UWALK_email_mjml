@@ -1,0 +1,39 @@
+<mjml>
+    <mj-head>
+        <mj-title>UWALK Account Verification</mj-title>
+        <mj-font name="Display" href="https://policy.uwalk.app/Email/style.css"/>
+    </mj-head>
+    <mj-body background-color="#E8EAF1" width="740px">
+        <mj-section>
+        </mj-section>
+        <mj-section padding="20px 30px 20px 30px" background-color="#FFFFFF">
+            <mj-column>
+                <mj-image src="https://policy.uwalk.app/Email/UWALK_logo.png" align="left" border="none" padding="0" width="145px">
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="15px 0 0 0">
+            <mj-column>
+                <mj-text font-family="Display" font-weight="bold" font-size="41px" align="center">Активация<br>аккаунта UWALK</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0">
+            <mj-column>
+                <mj-text font-family="Display" color="#737373" font-weight="normal" font-size="18px" align="center">Перейдите по ссылке ниже, чтобы закончить регистрацию</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="40px 0 20px 0">
+            <mj-column>
+                <mj-text font-family="Display" color="#737373" font-weight="normal" font-size="18px" align="center"><a href="{####}" style="color: #3859FF; text-decoration-line: underline">Подтвердите вашу учетную запись</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="25px 0 25px 0">
+            <mj-column>
+                <mj-text font-family="Display" color="#999999" font-weight="normal" font-size="11px" align="center">
+                <a href='https://policy.uwalk.app/privacy/PrivacyPolicy.html' style="color: #999999; text-decoration: none;">Политика конфиденциальности</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='mailto:support@uwalk.app' style="color: #999999; text-decoration: none;">Поддержка</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://m.facebook.com/UWalk-104552434854296' style="color: #999999; text-decoration: none;">Мы в Facebook</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+        </mj-section>
+    </mj-body>
+</mjml>
