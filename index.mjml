@@ -2,6 +2,7 @@
     <mj-head>
         <mj-title>UWALK Account Verification</mj-title>
         <mj-font name="Display" href="https://policy.uwalk.app/Email/style.css"/>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
     </mj-head>
     <mj-body background-color="#E8EAF1" width="740px">
         <mj-section>
@@ -13,22 +14,22 @@
         </mj-section>
         <mj-section background-color="#FFFFFF" padding="15px 0 0 0">
             <mj-column>
-                <mj-text font-family="Display" font-weight="bold" font-size="41px" align="center">Активация<br>аккаунта UWALK</mj-text>
+                <mj-text font-family="Display, Roboto, sans-serif" font-weight="700" font-size="41px" align="center">Активация<br>аккаунта UWALK</mj-text>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF" padding="0">
             <mj-column>
-                <mj-text font-family="Display" color="#737373" font-weight="normal" font-size="18px" align="center">Перейдите по ссылке ниже, чтобы закончить регистрацию</mj-text>
+                <mj-text font-family="Display, Roboto, sans-serif" color="#737373" font-weight="400" font-size="18px" align="center">Перейдите по ссылке ниже, чтобы закончить регистрацию</mj-text>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF" padding="40px 0 20px 0">
             <mj-column>
-                <mj-text font-family="Display" color="#737373" font-weight="normal" font-size="18px" align="center"><a href="{####}" style="color: #3859FF; text-decoration-line: underline">Подтвердите вашу учетную запись</a></mj-text>
+                <mj-text font-family="Display, Roboto, sans-serif" color="#737373" font-weight="400" font-size="18px" align="center"><a href="{####}" style="color: #3859FF; text-decoration-line: underline">Подтвердите вашу учетную запись</a></mj-text>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF" padding="25px 0 25px 0">
             <mj-column>
-                <mj-text font-family="Display" color="#999999" font-weight="normal" font-size="11px" align="center">
+                <mj-text font-family="Display, Roboto, sans-serif" color="#999999" font-weight="400" font-size="11px" align="center">
                 <a href='https://policy.uwalk.app/privacy/PrivacyPolicy.html' style="color: #999999; text-decoration: none;">Политика конфиденциальности</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='mailto:support@uwalk.app' style="color: #999999; text-decoration: none;">Поддержка</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='https://m.facebook.com/UWalk-104552434854296' style="color: #999999; text-decoration: none;">Мы в Facebook</a>
                 </mj-text>
             </mj-column>

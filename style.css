@@ -10,13 +10,13 @@
     @font-face {
     font-family: 'Display';
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     src: url(sf-ui-display-bold-58646a511e3d9.woff) format('woff');
     }
 
     @font-face {
     font-family: 'Display';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     src: url(sf-ui-display-regular.woff) format('woff');
     }
